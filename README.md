@@ -1,5 +1,6 @@
+<hr/>
 <h3 align="center">
-        <samp>&gt; Olá, eu me chamo
+        <samp>&lt;&quest; Olá, eu me chamo
                 <b><a target="_blank" href="https://www.linkedin.com/in/1alvaropaiva/">Alvaro</a>
                 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">
                 </b>
@@ -8,31 +9,31 @@
 
 <p align="center">
     <samp>
-             Full Stack developer 
+             Fullstack developer &quest;&gt;
             <br>
             <br>
     </samp>
-    <img src="/images/code.gif" alt="code" height="150px">
+    <img src="/images/code.gif" alt="code" height="200px">
 </p>
 
 <details align="center">
     <summary> <samp>&#9776; Sobre mim</samp></summary>
     <div align="left">
-        <h3 style="font-weight: 500">👨‍💻 About me:</h3 style="font-weight: 500">
+        <h3 style="font-weight: 500">👨‍💻 :</h3 style="font-weight: 500">
         <ul>
             <li>
-                ➡️ My second step in life definitely was technology, when I got my first PC I was just 3yo and since then I am so still into it. I passed through some questions in my life, but when I wrote my first code line of "Hello World" on a class of my university I realized that my duty is to make that bunch of code lines into a path for giving the best of me.
+                ➡️ Uso o GitHub como um repositório não só para projetos e desenvolvimento, como para 
             </li>
             <li>
-                ➡️ For start my path as Software Engineer I needed to look for something that could help me on this long way, then I found Driven, the name explains itself, they guided me into my goal and taught me a lot.
+                ➡️ 
             </li>
         </ul>
     </div>
     <hr/>
     <div style="width: 100%; display:flex; flex-direction:column; justify-content:center; align-items:center; gap:10px;">
         <div style="width:100%; display:flex">
-            <img style="width:68%; height: 200px; margin-right: 5px" src="https://github-readme-stats.vercel.app/api?username=vitorcarneiro&show_icons=true&theme=react" />
-            <img style="width:28%; height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcarneiro&theme=react" />
+            <img style="width:68%; height: 200px; margin-right: 5px" src="https://github-readme-stats.vercel.app/api?username=1alvaropaiva&show_icons=true&theme=react" />
+            <img style="width:28%; height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1alvaropaiva&theme=react" />
         </div>
     </div>
 </details>
@@ -41,15 +42,14 @@
 
 <samp>
     <p align="center">
-        ════ ⋆★⋆ ════
+        ⋆★⋆═⋆★⋆═⋆★⋆═⋆★⋆═⋆★⋆═⋆★⋆═⋆★⋆═⋆★⋆═⋆★⋆═⋆★⋆═⋆★⋆═⋆★⋆═⋆★⋆═⋆★⋆═⋆★⋆═⋆★⋆═⋆★⋆═⋆★⋆═⋆★⋆═⋆★⋆
         <br>
-        "Happy Coding👨‍💻!"
     </p>
 </samp>
 
 <hr/>
 
-<h3 style="font-weight: 500" style="font-weight: 400">🖥️ Technologies</h3 style="font-weight: 500">
+<h3 style="font-weight: 500" style="font-weight: 400">🖥️ Tecnologias</h3 style="font-weight: 500">
 <ul>
     <li>
         <div style="display: flex; align-content: center; gap: 8px">
@@ -186,31 +186,26 @@
 
 <hr/>
 
-<h3 style="font-weight: 500">📫 How to reach me:</h3 style="font-weight: 500">
+<h3 style="font-weight: 500">📫 Entre em contato comigo:</h3 style="font-weight: 500">
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a
-    href="https://wa.me/5541999842243?text=Hello%20Vitor,%20I%20saw%20your%20github%20profile" 
-    alt="WhatsApp"
-    target="_blank"
->
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="border-radius: 8%; height: 25px"/>
+<a>
 </a>
 <a
-    href="https://www.linkedin.com/in/vitor-csdo/" 
+    href="https://www.linkedin.com/in/1alvaropaiva/" 
     alt="LinkedIn"
     target="_blank"
 >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 8%; height: 25px"/>
 </a>
 <a
-    href="https://mail.google.com/mail/u/0/?fs=1&to=vitorcarneiro.sdo@gmail.com&su=I saw your github profile&body=Hello Vitor. My name is _______ &bcc=vitorcarneiro.sdo@gmail.com&tf=cm" 
+    href="https://mail.google.com/mail/u/0/?fs=1&alvaropaiva.dev@gmail.com&su=Eu vi seu perfil no Github&body=Olá Alvaro. Meu nome é _______ &bcc=alvaropaiva.dev@gmail.com&tf=cm" 
     alt="Gmail"
     target="_blank"
 >
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 8%; height: 25px"/>
 </a>
 <a
-    href="mailto:vitorcarneiro.sdo@gmail.com" 
+    href="mailto:alvaropaiva.dev@gmail.com" 
     alt="Outlook"
     target="_blank"
 >
