@@ -53,15 +53,18 @@
 <ul>
     <li>
         <div style="display: flex; align-content: center; gap: 8px">
-            <h3 style="font-weight: 500">Languages:</h3 style="font-weight: 500">
-            <a href="https://www.typescriptlang.org/" target="_blank">
-                <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" style="border-radius: 8%; height: 25px"/>
+            <h3 style="font-weight: 500">LPs:</h3 style="font-weight: 500">
+            <a href="https://www.java.com/pt-BR/" target="_blank">
+                <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" style="border-radius: 8%; height: 25px"/>
             </a>
             <a href="https://www.javascript.com" target="_blank">
                 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" style="border-radius: 8%; height: 25px"/>
             </a>
             <a href="https://www.cprogramming.com" target="_blank">
                 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" style="border-radius: 8%; height: 25px"/>
+            </a>
+            <a href="https://www.php.net/" target="_blank">
+                <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="c" style="border-radius: 8%; height: 25px"/>
             </a>
         </div>
     </li>
@@ -74,11 +77,11 @@
             <a href="https://www.docker.com" target="_blank">
                 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" style="border-radius: 8%; height: 25px"/>
             </a>
-            <a href="https://expressjs.com" target="_blank">
-                <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="express" style="border-radius: 8%; height: 25px"/>
+            <a href="https://laravel.com/" target="_blank">
+                <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel" style="border-radius: 8%; height: 25px"/>
             </a>
-            <a href="https://www.nginx.com" target="_blank">
-                <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" style="border-radius: 8%; height: 25px"/>
+            <a href="https://www.apache.org/" target="_blank">
+                <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="apache" style="border-radius: 8%; height: 25px"/>
             </a>
         </div>
     </li>
@@ -97,8 +100,8 @@
             <a href="https://styled-components.com" target="_blank">
                 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" style="border-radius: 8%; height: 25px"/>
             </a>
-            <a href="https://mui.com" target="_blank">
-                <img src="https://camo.githubusercontent.com/817fc7ba268e7e1fa114cbc4328bb326913cf392f5e2077ccc7b5f0e90a77109/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174657269616c25323055492d3030374646463f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7569266c6f676f436f6c6f723d7768697465" alt="material-ui" style="border-radius: 8%; height: 25px"/>
+            <a href="https://getbootstrap.com/" target="_blank">
+                <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" style="border-radius: 8%; height: 25px"/>
             </a>
         </div>
     </li>
@@ -111,11 +114,11 @@
             <a href="https://www.mongodb.com" target="_blank">
                 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo" style="border-radius: 8%; height: 25px"/>
             </a>
-            <a href="https://redis.io" target="_blank">
-                <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="redis" style="border-radius: 8%; height: 25px"/>
+            <a href="https://mariadb.org/" target="_blank">
+                <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="mariadb" style="border-radius: 8%; height: 25px"/>
             </a>
-            <a href="https://www.prisma.io" target="_blank">
-                <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="prisma" style="border-radius: 8%; height: 25px"/>
+            <a href="https://firebase.google.com" target="_blank">
+                <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="firebase" style="border-radius: 8%; height: 25px"/>
             </a>
         </div>
     </li>
@@ -135,34 +138,9 @@
     </li>
     <li>
         <div style="display: flex; align-content: center; gap: 8px">
-            <h3 style="font-weight: 500">Tests:</h3 style="font-weight: 500">
-            <a href="https://jestjs.io" target="_blank">
-                <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="jest" style="border-radius: 8%; height: 25px"/>
-            </a>
-            <a href="https://www.cprogramming.com" target="_blank">
-                <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="cypress" style="border-radius: 8%; height: 25px"/>
-            </a>
-        </div>
-    </li>
-    <li>
-        <div style="display: flex; align-content: center; gap: 8px">
-            <h3 style="font-weight: 500">Linters:</h3 style="font-weight: 500">
-            <a href="https://www.npmjs.com/package/eslit" target="_blank">
-                <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="eslint" style="border-radius: 8%; height: 25px"/>
-            </a>
-            <a href="https://prettier.io" target="_blank">
-                <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier" style="border-radius: 8%; height: 25px"/>
-            </a>
-        </div>
-    </li>
-    <li>
-        <div style="display: flex; align-content: center; gap: 8px">
             <h3 style="font-weight: 500">Operational systems:</h3 style="font-weight: 500">
             <a href="https://ubuntu.com" target="_blank">
                 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" style="border-radius: 8%; height: 25px"/>
-            </a>
-            <a href="https://www.freebsd.org" target="_blank">
-                <img src="https://img.shields.io/badge/freebsd-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" alt="freebsd" style="border-radius: 8%; height: 25px"/>
             </a>
             <a href="https://docs.microsoft.com/en-us/windows/wsl/install" target="_blank">
                 <img src="https://img.shields.io/badge/WSL-blue?style=for-the-badge&logo=windows&logoColor=white" alt="wsl" style="border-radius: 8%; height: 25px"/>
@@ -171,11 +149,8 @@
     <li>
         <div style="display: flex; align-content: center; gap: 8px">
             <h3 style="font-weight: 500">Tools:</h3 style="font-weight: 500">
-            <a href="https://www.typescriptlang.org/" target="_blank">
+            <a href="https://slack.com/intl/pt-br/" target="_blank">
                 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="slack" style="border-radius: 8%; height: 25px"/>
-            </a>
-            <a href="https://www.figma.com" target="_blank">
-                <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" style="border-radius: 8%; height: 25px"/>
             </a>
             <a href="https://trello.com" target="_blank">
                 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="trello" style="border-radius: 8%; height: 25px"/>
@@ -187,7 +162,6 @@
 <hr/>
 
 <h3 style="font-weight: 500">📫 Entre em contato comigo:</h3 style="font-weight: 500">
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a>
 </a>
 <a
