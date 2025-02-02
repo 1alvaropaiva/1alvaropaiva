@@ -10,8 +10,9 @@
     <samp>
              Full Stack developer 
             <br>
+            <br>
     </samp>
-    <img src="/images/code.gif" alt="code" height="100px">
+    <img src="/images/code.gif" alt="code" height="150px">
 </p>
 
 <details align="center">
