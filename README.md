@@ -23,7 +23,7 @@
         <h3>Sobre mim <img src="/images/coffee.gif" alt="coffee" height="30px"></h3>
         <ul>
             <li>
-                ➡️ Uso o GitHub como um repositório não só para projetos e desenvolvimento, como para salvar meus exercícios da faculdade e alguns códigos que podem ser úteis no decorrer do desenvolvimento. No meu GitHub, você encontrará projetos que mostram meu progresso nessa jornada e minha paixão por codificação.
+                ➡️ Uso o GitHub como um repositório não só para projetos e desenvolvimento, como para salvar meus exercícios da faculdade e alguns códigos que podem ser úteis no decorrer do meu desenvolvimento nessa área. No meu GitHub, você encontrará projetos que mostram meu progresso nessa jornada e minha paixão por codificação.
             </li>
             <li>
                 ➡️ Sou técnico em eletrônica que decidiu abraçar o mundo do desenvolvimento e migrar de carreira. Agora me dedico à criação de soluções web e aplicativos de diversos tipos. Minha experiência anterior me deu uma base sólida em resolução de problemas, atenção aos detalhes e análise lógica, habilidades que continuo a aplicar no desenvolvimento de software. Estou sempre buscando aprender novas tecnologias e melhorar minhas habilidades. Estou sempre explorando novas ferramentas e frameworks para expandir meu conhecimento. 
