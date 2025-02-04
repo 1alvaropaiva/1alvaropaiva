@@ -18,7 +18,7 @@
 </p>
 
 <details align="center">
-    <summary> <samp>&#9776; Clique aqui</samp></summary>
+    <summary align="left"> <samp>&#9776; Clique aqui</samp></summary>
     <div align="left">
         <h3>Sobre mim <img src="/images/coffee.gif" alt="coffee" height="30px"></h3>
         <ul>
