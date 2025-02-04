@@ -14,7 +14,7 @@
             <br>
             <br>
     </samp>
-    <img src="/images/code.gif" alt="code" height="200px">
+    <img src="/images/code.gif" alt="code" loading="lazy" height="200px">
 </p>
 
 <details align="center">
