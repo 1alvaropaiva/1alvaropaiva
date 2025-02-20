@@ -77,9 +77,6 @@
             <a href="https://www.docker.com" target="_blank">
                 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" style="border-radius: 8%; height: 25px"/>
             </a>
-            <a href="https://laravel.com/" target="_blank">
-                <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel" style="border-radius: 8%; height: 25px"/>
-            </a>
             <a href="https://www.apache.org/" target="_blank">
                 <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="apache" style="border-radius: 8%; height: 25px"/>
             </a>
