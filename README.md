@@ -1,7 +1,7 @@
 
 <hr/>
 <h3 align="center">
-        <samp>&lt;&quest; Olá, eu me chamo
+        <samp>Olá, eu me chamo
                 <b><a target="_blank" href="https://www.linkedin.com/in/1alvaropaiva/">Alvaro</a>
                 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">
                 </b>
@@ -10,7 +10,7 @@
 
 <p align="center">
     <samp>
-             Fullstack developer &quest;&gt;
+             Fullstack developer 
             <br>
             <br>
     </samp>
