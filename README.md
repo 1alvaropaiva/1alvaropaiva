@@ -54,9 +54,6 @@
             <a href="https://www.cprogramming.com" target="_blank">
                 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" style="border-radius: 8%; height: 25px"/>
             </a>
-            <a href="https://www.php.net/" target="_blank">
-                <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="c" style="border-radius: 8%; height: 25px"/>
-            </a>
         </div>
     </li>
     <li>
@@ -113,12 +110,6 @@
     <li>
         <div style="display: flex; align-content: center; gap: 8px">
             <h3 style="font-weight: 500">Deploy:</h3>
-            <a href="https://aws.amazon.com" target="_blank">
-                <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" style="border-radius: 8%; height: 25px"/>
-            </a>
-            <a href="https://www.heroku.com" target="_blank">
-                <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" style="border-radius: 8%; height: 25px"/>
-            </a>
             <a href="https://vercel.com" target="_blank">
                 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" style="border-radius: 8%; height: 25px"/>
             </a>
